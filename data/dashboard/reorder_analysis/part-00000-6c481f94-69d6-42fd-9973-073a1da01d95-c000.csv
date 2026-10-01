@@ -1,0 +1,3 @@
+Reorder_Status,Record_Count,Average_Inventory,Average_Demand_Forecast
+STOCK_SUFFICIENT,86209,482.21,19.83
+REORDER_REQUIRED,5041,288.74,24.33
