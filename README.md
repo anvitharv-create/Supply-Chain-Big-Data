@@ -60,7 +60,6 @@ The interactive Streamlit dashboard includes:
 
 **Live Dashboard:** [View the Dashboard](https://supply-chain-big-data-o9gobhu445vgvrbn2wvou5.streamlit.app)
 
-*Dashboard screenshots can be added after uploading actual screenshots to the repository.*
 
 ## What This Project Delivers
 
