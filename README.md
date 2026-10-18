@@ -26,6 +26,27 @@ This project uses PySpark, Spark SQL, and data visualization to transform supply
 *These findings are based on the supplied synthetic dataset. The dataset contains no positive stockout events, so the project does not claim to measure actual stockout reduction.*
 
 ## Dashboard
+## Dashboard Screenshots
+
+### Dashboard Overview
+![Supply Chain Dashboard Overview](screenshots/supply_chain_readme_images/dashboard-overview.png)
+
+### Product Analysis
+![Product Analysis](screenshots/supply_chain_readme_images/product-analysis.png)
+
+### Regional Analysis
+![Regional Analysis](screenshots/supply_chain_readme_images/regional-analysis.png)
+
+### Warehouse Analysis
+![Warehouse Analysis](screenshots/supply_chain_readme_images/warehouse-analysis.png)
+
+### Supplier Analysis
+![Supplier Analysis](screenshots/supply_chain_readme_images/supplier-analysis.png)
+
+### Reorder Analysis
+![Reorder Analysis](screenshots/supply_chain_readme_images/reorder-analysis.png)
+
+**[Open the Live Dashboard](https://supply-chain-big-data-o9gobhu445vgvrbn2wvou5.streamlit.app/)**
 
 The interactive Streamlit dashboard includes:
 
