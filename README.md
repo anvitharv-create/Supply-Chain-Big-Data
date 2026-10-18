@@ -250,4 +250,7 @@ The project provides practical experience in big data processing, data validatio
 
 ## Author
 
-Developed as an academic Big Data Analytics project.
+**Anvitha R V**  
+Final-Year Student, Information Science and Engineering
+
+GitHub: [anvitharv-create](https://github.com/anvitharv-create)
