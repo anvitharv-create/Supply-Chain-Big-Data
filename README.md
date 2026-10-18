@@ -58,8 +58,6 @@ The interactive Streamlit dashboard includes:
 - **Reorder Analysis:** Inventory records grouped by reorder status.
 - **Data Explorer:** Interactive exploration of processed data.
 
-**Live Dashboard:** [View the Dashboard](https://supply-chain-big-data-o9gobhu445vgvrbn2wvou5.streamlit.app)
-
 
 ## What This Project Delivers
 
